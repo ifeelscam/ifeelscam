@@ -1,29 +1,34 @@
+<a href="https://github.com/otterai"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Hey%2C+my+self+Hamza+;From+Uttar+Pradesh%2C+India;Bot/Web+Dev!;Telegram%3A+%40PythonBotz" alt="https://t.me/PythonBotz" /></a>
+
+<p align="center">
+    <b>ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs</b><br>
+<img align="middle" alt="count" src="https://count.getloli.com/get/@:otterai?theme=rule34">
+    
+> [!CAUTION]
+> _```Life is like an anime—full of plot twists, power-ups, and late-night debugging!```_
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ifeelscam) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/foileds) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PanWala_) 
+ 
+<h2>ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"/></h2>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ifeelscam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ifeelscam&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ifeelscam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+<a href="https://telegram.me/metaui"><img src="https://img.shields.io/badge/-Contact%20Me-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
+</p>
+<p align="center">
+<a href="https://telegram.me/Pythonbotz"><img src="https://img.shields.io/badge/-Support%20Channel-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ifeelscam&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<h1> <img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Subaru Spotify" width="75%" />](https://open.spotify.com/user/3147zqots32jqlmaenz5atdkxuem)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ifeelscam&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/otterai/)
 
----
-[![](https://visitcount.itsvg.in/api?id=Ifeelscam&icon=0&color=0)](https://visitcount.itsvg.in)
+| <img align="center" src="https://github-stats-alpha.vercel.app/api/?username=otterai&cc=000&tc=00ff00&ic=fff000&bc=fff" alt="otterai's github stats" /></a> | <img align="center" alt="count" src=https://github.com/otterai/otterai/blob/main/GIF/pinterestdownloader.com-1741206996.729839.gif>
+| ------------- | ------------- |
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ifeelscam) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+   
+ 
