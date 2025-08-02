@@ -22,13 +22,14 @@
 
 [<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Subaru Spotify" width="75%" />](https://open.spotify.com/user/3147zqots32jqlmaenz5atdkxuem)
 
-[<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/otterai/)
+[<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/ifeelscam/)
 
-| <img align="center" src="https://github-stats-alpha.vercel.app/api/?username=otterai&cc=000&tc=00ff00&ic=fff000&bc=fff" alt="otterai's github stats" /></a> | <img align="center" alt="count" src=https://github.com/otterai/otterai/blob/main/GIF/pinterestdownloader.com-1741206996.729839.gif>
+| <img align="center" src="https://github-stats-alpha.vercel.app/api/?username=ifeelscam&cc=000&tc=00ff00&ic=fff000&bc=fff" alt="otterai's github stats" /></a> | <img align="center" alt="count" src=https://github.com/otterai/otterai/blob/main/GIF/pinterestdownloader.com-1741206996.729839.gif>
 | ------------- | ------------- |
 
 
 
+![snake gif](https://github.com/ifeelscam/ifeelscam/blob/output/github-snake-dark.svg)
 
    
  
